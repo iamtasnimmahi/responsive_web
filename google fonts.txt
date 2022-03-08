@@ -1,0 +1,8 @@
+        font-family: 'Ubuntu', sans-serif;
+
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+    font-family: 'Ubuntu Mono', monospace;
+    font-family: 'Akaya Telivigala', cursive;
+
+    font-family: 'Cormorant Garamond', serif;
